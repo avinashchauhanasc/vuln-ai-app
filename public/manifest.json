@@ -1,0 +1,16 @@
+{
+  "short_name": "VulnAI",
+  "name": "Explainable AI Vulnerability Detector & Secure Patch Recommendation System",
+  "icons": [
+    {
+      "src": "shield.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#090d16",
+  "theme_color": "#0d1117",
+  "display": "standalone",
+  "orientation": "portrait"
+}

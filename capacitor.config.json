@@ -1,0 +1,5 @@
+{
+  "appId": "com.vulnai.app",
+  "appName": "VulnAI Engine",
+  "webDir": "dist"
+}
